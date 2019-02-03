@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4faf4b7-37a9-4938-899b-62ba74b618f9" name="Default Changelist" comment="" />
+    <list default="true" id="c4faf4b7-37a9-4938-899b-62ba74b618f9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/upo/reti2s/TaskService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/upo/reti2s/TaskService.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -37,7 +39,7 @@
     <session id="-1530839485">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.2" value="1" />
@@ -59,12 +61,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="607" />
+          <entry key="java" value="618" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="607" />
+          <entry key="JAVA" value="618" />
         </counts>
       </usages-collector>
     </session>
@@ -79,8 +81,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/it/upo/reti2s/TaskService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+            <state relative-caret-position="344">
+              <caret line="47" column="78" lean-forward="true" selection-start-line="47" selection-start-column="78" selection-end-line="47" selection-end-column="78" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#initSongIterator#0;class#TaskService#0" />
@@ -539,7 +541,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18078668" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -602,8 +603,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/it/upo/reti2s/TaskService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+        <state relative-caret-position="344">
+          <caret line="47" column="78" lean-forward="true" selection-start-line="47" selection-start-column="78" selection-end-line="47" selection-end-column="78" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#initSongIterator#0;class#TaskService#0" />

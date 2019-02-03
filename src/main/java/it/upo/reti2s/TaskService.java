@@ -78,8 +78,8 @@ public class TaskService {
                 // iterate over the Hue lamps, turn them on with the color loop effect -> to be tested
                 for (String light : allLights.keySet()) {
                     callURL = lightsURL + light + "/state";
-                    //body = "{ \"on\" : true, \"effect\" : \"colorloop\" }";
-                    body = "{ \"on\" : \"true\"}";
+                    body = "{ \"on\" : true, \"effect\" : \"colorloop\" }";
+                    //body = "{ \"on\" : \"true\"}";
 
                     rest.put(callURL, body, "application/json");
                 }
@@ -103,7 +103,7 @@ public class TaskService {
 
             for (String light : allLights.keySet()) {
                 callURL = lightsURL + light + "/state";
-                body = "{ \"on\" : \"true\"}";
+                body = "{ \"on\" : \"false\"}";
 
                 rest.put(callURL, body, "application/json");
             }
